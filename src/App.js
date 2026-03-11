@@ -5,6 +5,7 @@ import Addproducs from './componenets/Addproducs';
 import Signup from './componenets/Signup';
 import Signin from './componenets/Signin';
 import Notfound from './componenets/Notfound';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
